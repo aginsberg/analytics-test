@@ -79,7 +79,7 @@ class App extends Component {
           </div>
         </div>
 
-        <a href="http://5b05cde7e39e7c540f22797f.determined-wing-26e4c0.netlify.com">Other Site</a>
+        <a href="https://gracious-heisenberg-7e5f01.netlify.com/">Other Site</a>
 
         <div className="README-wrapper">
             <p className="README-text">
